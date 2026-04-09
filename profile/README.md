@@ -32,6 +32,7 @@ Below are some official Nuxt projects and organizations:
 ## Nuxt Community
 
 - [Nuxtr](https://github.com/nuxtrdev) - Building developer tools for Nuxt framework
+- [Nuxt Aid](https://github.com/nuxtaid) - A community for developers and non-profits to learn, share, and build impactful solutions with Nuxt.
 
 ## Contribution
 
